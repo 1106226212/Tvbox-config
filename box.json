@@ -1,0 +1,266 @@
+{
+  "version": "1.0.0",
+  "home": "https://www.lovedan.net",
+  "logo": "https://api.apibdzy.com/logo.png",
+  "sites": [
+    {
+      "key": "meow01",
+      "name": "艾旦",
+      "type": 1,
+      "api": "https://www.lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow05",
+      "name": "暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow20",
+      "name": "爱胆",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow21",
+      "name": "樱花",
+      "type": 1,
+      "api": "https://api.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow22",
+      "name": "最大",
+      "type": 1,
+      "api": "https://zuidazy.co/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow25",
+      "name": "无尽",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow29",
+      "name": "墨斗",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow30",
+      "name": "魔都",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow32",
+      "name": "牛牛",
+      "type": 1,
+      "api": "https://niuniuzy3.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow36",
+      "name": "玉兔资源(切片)",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow37",
+      "name": "HG",
+      "type": 1,
+      "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow40",
+      "name": "无忧",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow41",
+      "name": "淘片",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow43",
+      "name": "奇艺",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow44",
+      "name": "天涯",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow46",
+      "name": "秒播",
+      "type": 1,
+      "api": "https://api.zeqaht.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow47",
+      "name": "丫丫",
+      "type": 1,
+      "api": "https://yayazy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow49",
+      "name": "360",
+      "type": 1,
+      "api": "https://360zy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow51",
+      "name": "闪电",
+      "type": 1,
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow53",
+      "name": "百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "meow54",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 15
+    },
+    {
+      "key": "zy360",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "tianya",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "https://tyyszy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "niuniu",
+      "name": "牛牛资源",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "piaoling",
+      "name": "飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "liangzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "maotai",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "综合直播",
+      "type": 0,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "IPv4直播",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv4.txt",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u",
+      "ua": "okhttp/3.15"
+    }
+  ],
+  "parses": [],
+  "warnings": ""
+}
